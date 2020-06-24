@@ -1,0 +1,82 @@
+{
+    "name": "Asakura Tooru",
+    "display-name": "浅倉透",
+    "avatar": "avatar.png",
+    "avatar-dark": "avatar_dark.jpg",
+    "version": "1.0.0",
+    "description": "283 Production倾情奉献",
+    "author": "BANDAI NAMCO",
+    "languages": "cpp",
+    "gender": "female",
+    "locale": "jp",
+    "contributes": [
+        {
+            "keywords": [
+                "for",
+                "while"
+            ],
+            "voices": [
+                "busy.mp3",
+                "sleepy.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "if",
+                "switch",
+                "else"
+            ],
+            "voices":[
+                "closer.mp3",
+                "ganba.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "define",
+                "include",
+                "using"
+            ],
+            "voices": [
+                "lazy.mp3",
+                "nn.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "void",
+                "float",
+                "double",
+                "long",
+                "string",
+                "char"
+            ],
+            "voices": [
+                "thankyou.mp3",
+                "otsukare.mp3",
+                "otsukare2.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "return",
+                "cout"
+            ],
+            "voices": [
+                "home.mp3",
+                "ne.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "break",
+                "continue"
+            ],
+            "voices": [
+                "woi.mp3",
+                "whatshappen",
+                "nani.mp3"
+            ]
+        }
+    ]
+}
