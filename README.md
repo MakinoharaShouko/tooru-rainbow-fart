@@ -1,5 +1,5 @@
 # tooru-rainbow-fart
-283 Production倾情奉献 [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)扩展语音包
+283 Production倾情奉献 浅仓透[vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)扩展语音包
 
 纯跟风作
 
